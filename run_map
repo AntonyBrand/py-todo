@@ -1,0 +1,3 @@
+#!/bin/bash
+
+FLASK_APP=src/application.py FLASK_ENV=development flask run
